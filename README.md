@@ -11,7 +11,11 @@ Employee-Summary
 Employee-Summary
 
 ## Table of Contents:
-  [Intallation Steps](#installSteps)  
+  [Image](#image)
+
+  [Gif](#gif)
+
+  [Intallation](#installation)
 
   [Instructions](#instructions)  
 
@@ -24,8 +28,14 @@ Employee-Summary
   [Questions](#questions)  
 
 
+## Image:
+![image](./assets/EmpSumRender.jpg)
 
-## Installation Dependencies:
+## Gif:
+![gif](./assets/EmpSum1.gif)
+
+
+## Installation:
 npm install
 
 ## Instructions:
